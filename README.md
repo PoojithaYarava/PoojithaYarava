@@ -23,7 +23,7 @@ Cybersecurity fundamentals
 🛠️ Tech Stack
 👨‍💻 Programming & Development
 
-Python, Java
+Python, Java(Basic)
 
 HTML, CSS, JavaScript
 
