@@ -1,8 +1,8 @@
 ##👋 Hi, I’m Poojitha Yarava
 
-💻 DevOps | Full-Stack Developer | Data Analyst
+💻 Data Analytics | DevOps | Full-Stack Developer 
 ☁ AWS | Docker | CI/CD | Linux
-📊 Python | SQL | Data Analysis
+📊 Python | SQL | Git & Git Hub 
 🔐 Cybersecurity Enthusiast
 
 🚀 About Me
@@ -21,23 +21,12 @@ Data Analysis & Visualization
 Cybersecurity fundamentals
 
 🛠️ Tech Stack
-👨‍💻 Programming & Development
 
-Python, Java(Basic)
-
-HTML, CSS, JavaScript
-
-REST APIs
-
-☁️ DevOps & Cloud
-
-Linux, Git, GitHub
-
-Docker, Kubernetes (Basics)
-
-CI/CD (GitHub Actions, Jenkins)
-
-AWS (EC2, S3, IAM, CloudWatch)
+Programming & Development : Python, JavaScript, SQL
+Data Analytics: Power BI , Pandas, NumPy
+Web Development: MongoDB, Express.js, React.js, Node.js
+AI/ML: Scikit-learn (Basics)
+Tools: Git, GitHub, REST APIs
 
 📊 Data Analysis
 
@@ -53,41 +42,30 @@ Power BI / Tableau (Basic)
 
 Network Security basics
 
-Threat Analysis
-
-Vulnerability Assessment
-
-DevSecOps fundamentals
-
 📂 Featured Projects
 
 🔹 Full-Stack Web Application – Frontend + Backend + Database
-🔹 CI/CD Pipeline with Docker & AWS – Automated build & deployment
 🔹 Data Analysis Project – EDA, SQL queries & visual insights
+🔹 CI/CD Pipeline with Docker & AWS – Automated build & deployment
 🔹 Security Audit Project – Risk analysis & mitigation strategies
 
 👉 Check out my pinned repositories below 👇
 
-MediConnect - A website for health-care appointment
+1. MediConnect - A website for health-care appointment
 https://github.com/PoojithaYarava/healthcare-appointment-system
-
-
-
 
 
 🎯 Career Interests
 
 Data Analyst / Business Analyst
 
-DevOps Engineer / Cloud Engineer
-
 Full-Stack Developer
 
-DevSecOps / Security-aware roles
+DevOps Engineer / Cloud Engineer
 
 📫 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/poojithayarava
+💼 LinkedIn: https://linkedin.com/in/poojithayarava
 
 💻 GitHub: https://github.com/PoojithaYarava
 
