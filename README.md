@@ -54,6 +54,11 @@ Network Security basics
 1. MediConnect - A website for health-care appointment
 https://github.com/PoojithaYarava/healthcare-appointment-system
 
+2. ClosetIQ - Fashion E-Commerce Recommendation System
+https://github.com/PoojithaYarava/closetiq
+
+
+
 
 🎯 Career Interests
 
