@@ -44,11 +44,6 @@ Network Security basics
 
 📂 Featured Projects
 
-🔹 Full-Stack Web Application – Frontend + Backend + Database
-🔹 Data Analysis Project – EDA, SQL queries & visual insights
-🔹 CI/CD Pipeline with Docker & AWS – Automated build & deployment
-🔹 Security Audit Project – Risk analysis & mitigation strategies
-
 👉 Check out my pinned repositories below 👇
 
 1. MediConnect - A website for health-care appointment
@@ -56,9 +51,6 @@ https://github.com/PoojithaYarava/healthcare-appointment-system
 
 2. ClosetIQ - Fashion E-Commerce Recommendation System
 https://github.com/PoojithaYarava/closetiq
-
-
-
 
 🎯 Career Interests
 
