@@ -1,9 +1,8 @@
-##👋 Hi, I’m Poojitha Yarava
+ I’m Poojitha Yarava
 
 💻 Data Analytics | DevOps | Full-Stack Developer 
 ☁ AWS | Docker | CI/CD | Linux
 📊 Python | SQL | Git & Git Hub 
-🔐 Cybersecurity Enthusiast
 
 🚀 About Me
 
@@ -18,11 +17,9 @@ DevOps & Cloud Infrastructure
 
 Data Analysis & Visualization
 
-Cybersecurity fundamentals
-
 🛠️ Tech Stack
 
-Programming & Development : Python, JavaScript, SQL
+Programming & Development : Python, JavaScript(Basics), SQL
 Data Analytics: Power BI , Pandas, NumPy
 Web Development: MongoDB, Express.js, React.js, Node.js
 AI/ML: Scikit-learn (Basics)
@@ -38,9 +35,6 @@ Excel (Pivot Tables, Charts)
 
 Power BI / Tableau (Basic)
 
-🔐 Security
-
-Network Security basics
 
 📂 Featured Projects
 
@@ -51,6 +45,9 @@ https://github.com/PoojithaYarava/healthcare-appointment-system
 
 2. ClosetIQ - Fashion E-Commerce Recommendation System
 https://github.com/PoojithaYarava/closetiq
+
+3.mutual-fund-analytics
+https://github.com/PoojithaYarava/mutual-fund-analytics
 
 🎯 Career Interests
 
