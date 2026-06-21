@@ -43,10 +43,17 @@ Power BI / Tableau (Basic)
 1. MediConnect - A website for health-care appointment
 https://github.com/PoojithaYarava/healthcare-appointment-system
 
-2. ClosetIQ - Fashion E-Commerce Recommendation System
-https://github.com/PoojithaYarava/closetiq
+2.GrowWell-A Farmer's companion
+https://github.com/PoojithaYarava/grow_well-farmers-companion
 
-3.mutual-fund-analytics
+3.varnan-crochet Business website
+https://github.com/PoojithaYarava/varnan
+https://github.com/varnanthroughcrochet/Varnan
+
+4.data-analysis-python-sqlretail-sales analytics workflow using Python
+https://github.com/PoojithaYarava/data-analysis-python-sql
+
+5.mutual-fund-analytics
 https://github.com/PoojithaYarava/mutual-fund-analytics
 
 🎯 Career Interests
