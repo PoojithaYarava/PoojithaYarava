@@ -53,7 +53,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/PoojithaYarava/healthcare-appointment-system">MediConnect</a></h3>
-      <p>A comprehensive web platform designed to handle seamless health-care appointment scheduling and workflow optimizations.</p>
+      <p>A comprehensive web platform designed for booking health-care/Doctors appointments Online Also provides Sample collection at home for tests.</p>
       <!-- Tech Badges -->
       <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code>
     </td>
@@ -67,7 +67,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌾 <a href="https://github.com/PoojithaYarava/grow_well-farmers-companion">GrowWell</a></h3>
-      <p>A structured digital portal and resource web companion built explicitly to support farmers with navigation and calculations.</p>
+      <p>GrowWell is a small farming and fertilizer guidance frontend project. It includes a refreshed landing page, a fertilizer recommendation page, a community page, and a simple login/register flow backed by a local Node.js server.</p>
       <!-- Tech Badges -->
       <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
     </td>
